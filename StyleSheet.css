@@ -1,0 +1,12 @@
+
+.button{
+    -fx-background-color: darkblue;
+        -fx-font: normal bold 15px 'serif';
+        -fx-text-fill: white;
+}
+.root{
+  -fx-background-color: lightblue;
+}
+.label{
+    -fx-font: normal bold 20px 'serif';
+}
